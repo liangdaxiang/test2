@@ -13,6 +13,9 @@ public class Book {
    private double price;
    private int type;
 
+   public void test(){
+      System.out.println("我张宙好牛逼啊");
+   }
    public Book() {
    }
 
