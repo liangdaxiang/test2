@@ -3,10 +3,7 @@ package com.kgc.pojo;
 import java.sql.Date;
 
 /**
- * 我张宙
- * 我张宙
- * 我张宙
- * 我张宙我张宙我张宙我张宙我张宙我张宙我张宙我张宙我张宙我张宙我张宙我张宙我张宙我张宙我张宙我张宙我张宙我张宙我张宙我张宙我张宙
+ * 我梁大祥   今天在这里说了！   没有我找不到的bug   就是这么叼    狂拽酷炫吊炸天
  */
 public class Book {
    private int id;
