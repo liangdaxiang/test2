@@ -2,6 +2,12 @@ package com.kgc.pojo;
 
 import java.sql.Date;
 
+/**
+ * 我张宙
+ * 我张宙
+ * 我张宙
+ * 我张宙我张宙我张宙我张宙我张宙我张宙我张宙我张宙我张宙我张宙我张宙我张宙我张宙我张宙我张宙我张宙我张宙我张宙我张宙我张宙我张宙
+ */
 public class Book {
    private int id;
    private String name;
