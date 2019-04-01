@@ -17,8 +17,7 @@ public class Book {
         System.out.println();
     }
 
-    public Book() {
-    }
+
    public void test(){
       System.out.println("我张宙好牛逼啊");
    }
